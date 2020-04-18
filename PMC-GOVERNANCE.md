@@ -98,10 +98,13 @@ The PMC Chair has no additional authority over other members of the PMC: the rol
 
 #### <a name="current-project-management-committee"></a>Current project management committee
 
-* [Richard Anderson](http://www.cs.washington.edu/people/faculty/anderson)
-* [Yaw Anokwa](https://github.com/yanokwa) - Chair
-* [Waylon Brunette](https://github.com/wbrunette)
-* [Carl Hartung](https://github.com/chartung)
+* Ben Green
+* Caroline Krafft
+* Emil Rossing
+* Jeff Beorse
+* Li Lin
+* Raquel Bernedo
+* Waylon Brunette
 
 ## <a name="support"></a>Support
 
